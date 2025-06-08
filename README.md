@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aakash-Thakre
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning Java and Mern Stack.
+- 👀 I’m interested in developmend and process.
+- 🌱 I’m currently learning Devops tools and Java.
 
 <!---
 Aakash-Thakre/Aakash-Thakre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

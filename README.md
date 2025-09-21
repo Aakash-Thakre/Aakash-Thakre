@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakash-Thakre
-- 👀 I’m interested in developmend and process.
+- 👀 I’m interested in development and process.
 - 🌱 I’m currently learning Devops tools and Java.
 
 <!---

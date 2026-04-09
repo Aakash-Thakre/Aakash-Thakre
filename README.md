@@ -13,6 +13,15 @@ I am a Cloud & DevOps Engineer with a focus on building scalable, high-availabil
 # 💫 About Me:
 Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cost Optimization Specialist<br><br>I am a Cloud & DevOps Engineer with a focus on building scalable, high-availability infrastructure that doesn't break the bank. My unique background combines 1.8 years of deep Azure enterprise management with hands-on DevOps engineering, allowing me to bridge the gap between complex cloud architecture and financial efficiency.
 
+## 🏅 Certifications & Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Digital%20Cloud%20Leader-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/KodeKloud-100%20Days%20of%20DevOps-green?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+
 ## 🧰 DevOps Toolchain
 
 ### ☁️ Cloud & Infrastructure
@@ -53,13 +62,6 @@ Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cos
 <img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
 </p>
 
-## 🏅 Certifications & Achievements
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-Digital%20Cloud%20Leader-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/KodeKloud-100%20Days%20of%20DevOps-green?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
 
 
 

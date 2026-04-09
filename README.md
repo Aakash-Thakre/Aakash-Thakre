@@ -10,9 +10,6 @@ I am a Cloud & DevOps Engineer with a focus on building scalable, high-availabil
 
 ---
 
-# 💫 About Me:
-Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cost Optimization Specialist<br><br>I am a Cloud & DevOps Engineer with a focus on building scalable, high-availability infrastructure that doesn't break the bank. My unique background combines 1.8 years of deep Azure enterprise management with hands-on DevOps engineering, allowing me to bridge the gap between complex cloud architecture and financial efficiency.
-
 ## 🏅 Certifications & Achievements
 
 <p align="left">
@@ -49,7 +46,6 @@ Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cos
 ### 🔐 Security & DevSecOps
 <p>
 <img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
 </p>
 
 ### 🗄️ Version Control & Collaboration
@@ -75,7 +71,7 @@ Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cos
 
 ### 📊 GitHub Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Thakre&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Thakre&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 

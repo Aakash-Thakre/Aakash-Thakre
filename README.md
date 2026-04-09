@@ -60,7 +60,7 @@ I am a Cloud & DevOps Engineer with a focus on building scalable, high-availabil
 
 ---
 
-### 🏗️ End-to-End-Kubernetes-DevSecOps-Three-Tier-App-Deployment
+### 🏗️ Key Project: End-to-End-Kubernetes-DevSecOps-Three-Tier-App-Deployment
 **Full-stack automation on AWS EKS**
 * **The Stack:** Terraform, Jenkins, Docker, Kubernetes (EKS).
 * **Key Achievement:** Resolved persistent storage challenges using **EBS CSI drivers** and **PVCs** to ensure database reliability.

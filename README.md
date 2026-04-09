@@ -68,10 +68,3 @@ I am a Cloud & DevOps Engineer with a focus on building scalable, high-availabil
 * [👉 View Project Repository](https://github.com/Aakash-Thakre/End-to-End-Kubernetes-DevSecOps-Three-Tier-App-Deployment.git)
 
 ---
-
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Thakre&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Thakre&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-

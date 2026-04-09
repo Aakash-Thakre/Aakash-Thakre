@@ -59,10 +59,23 @@ Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cos
 
 ### 🖥️ Scripting & OS
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
 </p>
 
+---
 
+### 🏗️ Featured Project: 3-Tier CI/CD Deployment
+**Full-stack automation on AWS EKS**
+* **The Stack:** Terraform, Jenkins, Docker, Kubernetes (EKS).
+* **Key Achievement:** Resolved persistent storage challenges using **EBS CSI drivers** and **PVCs** to ensure database reliability.
+* **Result:** A fully automated "code-to-cloud" pipeline with zero manual intervention.
+* [👉 View Project Repository](https://github.com/Aakash-Thakre/End-to-End-Kubernetes-DevSecOps-Three-Tier-App-Deployment.git)
 
+---
 
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
 

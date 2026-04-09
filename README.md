@@ -1,6 +1,16 @@
-# 💫 About Me:
-Hi, I'm Aakash Thakre! 👋<br>Cloud & DevOps Engineer ☁️ | Automation & Cost Optimization Specialist<br><br>I am a Cloud & DevOps Engineer with a focus on building scalable, high-availability infrastructure that doesn't break the bank. My unique background combines 1.8 years of deep Azure enterprise management with hands-on DevOps engineering, allowing me to bridge the gap between complex cloud architecture and financial efficiency.
+<h1 align="center">Hi 👋, I'm Aakash Thakre from India 🇮🇳</h1>
 
+<h3 align="center">
+Cloud and DevOps Engineer |  Automation & Cost Optimization Engineer
+</h3>
+
+---
+
+<h2>👨‍💻 About Me</h2>
+
+I am a Cloud & DevOps Engineer with a focus on building scalable, high-availability infrastructure that doesn't break the bank. My unique background combines 1.8 years of deep Azure enterprise management with hands-on DevOps engineering, allowing me to bridge the gap between complex cloud architecture and financial efficiency.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aakash Thakre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakreaakash00@gmail.com) 

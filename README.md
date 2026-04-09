@@ -4,8 +4,6 @@
 Cloud and DevOps Engineer |  Automation & Cost Optimization Engineer
 </h3>
 
----
-
 <h2>👨‍💻 About Me</h2>
 
 I am a Cloud & DevOps Engineer with a focus on building scalable, high-availability infrastructure that doesn't break the bank. My unique background combines 1.8 years of deep Azure enterprise management with hands-on DevOps engineering, allowing me to bridge the gap between complex cloud architecture and financial efficiency.

@@ -64,6 +64,7 @@ I am a Cloud & DevOps Engineer with a focus on building scalable, high-availabil
 **Full-stack automation on AWS EKS**
 * **The Stack:** Terraform, Jenkins, Docker, Kubernetes (EKS).
 * **Key Achievement:** Resolved persistent storage challenges using **EBS CSI drivers** and **PVCs** to ensure database reliability.
+* **Cost-Optimization:** Defined precise resource requests and limits in Kubernetes manifests to ensure optimal cluster density and cost-efficiency on AWS EKS.
 * **Result:** A fully automated "code-to-cloud" pipeline with zero manual intervention.
 * [👉 View Project Repository](https://github.com/Aakash-Thakre/End-to-End-Kubernetes-DevSecOps-Three-Tier-App-Deployment.git)
 

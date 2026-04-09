@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Thakre from India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Aakash Thakre from India</h1>
 
 <h3 align="center">
 Cloud and DevOps Engineer |  Automation & Cost Optimization Engineer

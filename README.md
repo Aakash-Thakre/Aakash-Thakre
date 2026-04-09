@@ -32,13 +32,11 @@ I am a Cloud & DevOps Engineer with a focus on building scalable, high-availabil
 ### 📊 Observability & Monitoring
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
 </p>
 
 ### 🔐 Security & DevSecOps
 <p>
 <img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
 <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
 </p>
 
